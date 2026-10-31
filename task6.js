@@ -1,6 +1,6 @@
-let a = 1;
-let b = 5;
-let c = 10;
+let a = 15;
+let b = 30;
+let c = 100;
 let result = a < b && b < c;
 
 console.log(result);
