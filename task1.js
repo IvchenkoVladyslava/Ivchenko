@@ -1,5 +1,4 @@
-let message;
-message = "Перше значення";
+let message = "Змінна ";
 console.log(message);
-message = "Нове значення";
+message = "Значення змінної змінено!";
 console.log(message);
